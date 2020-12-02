@@ -1,0 +1,10 @@
+{
+  "name": "@lukasz/moon",
+  "version": "1.0.0",
+  "dependencies": {
+    "@lukasz/simon": "^0.2.0"
+  },
+  "devDependencies": {
+    "@lukasz/moron": "^0.2.0",
+  }
+}
